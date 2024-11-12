@@ -9,7 +9,7 @@ If docker is not already installed on your system, please install  using the off
 In the terminal, navigate to where you plan to install this repository. Clone this repo onto your Desktop with the following:
 
 ```bash
-git clone https://github.com/florisvb/multicamselfcal_camera_calibration_in_docker.git
+git clone https://github.com/vanbreugel-lab/multicamselfcal_camera_calibration_in_docker.git
 ```
 
 ### 2. Build the Docker image
